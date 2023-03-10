@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1677422444 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaordenada.h"
+	"constantes.h"
+
+1677423267 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\main.c
+	<stdlib.h>
+	"listaordenada.h"
+	"deque.h"
+	"tramite.h"
+	"constantes.h"
+	<string.h>
+
+1677416067 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.h
+
+1677416067 e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.h
+
+1677106105 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1677106105 e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1677181470 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"deque.h"
+
+1677181098 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.h
+
+1677181098 e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.h
+
+1677422796 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.c
+	<stdlib.h>
+	<stdio.h>
+	"tramite.h"
+	<string.h>
+	"constantes.h"
+
+1677418278 e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.h
+
+1677418278 source:e:\repositorios git\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.h
+
+1678191667 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1678066851 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"deque.h"
+
+1678191667 e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1678066324 e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.h
+
+1678066324 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.h
+
+1677806103 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaordenada.h"
+	"constantes.h"
+
+1677807228 e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.h
+
+1677807228 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.h
+
+1678058738 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\main.c
+	<stdlib.h>
+	"listaordenada.h"
+	"deque.h"
+	"tramite.h"
+	"constantes.h"
+	"simuladorPuestosDeAtencion.h"
+	<string.h>
+
+1677757996 e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.h
+
+1677808640 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.c
+	<stdlib.h>
+	<stdio.h>
+	"tramite.h"
+	<string.h>
+	"constantes.h"
+
+1677757996 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.h
+
+1678191667 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion.c
+	<stdlib.h>
+	<stdio.h>
+	"simuladorPuestosDeAtencion.h"
+	"constantes.h"
+	"deque.h"
+	"tramite.h"
+	"listaordenada.h"
+
+1677797652 source:e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion.h
+	"listaordenada.h"
+	<stdio.h>
+
+1677797652 e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion.h
+	"listaordenada.h"
+	<stdio.h>
+
+1677582300 e:\repositoriosgit\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaordenada.h"
+	"constantes.h"
+
+1678191667 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1678066851 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"deque.h"
+
+1678191667 e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1678066324 e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.h
+
+1678066324 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\deque.h
+
+1677806103 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaordenada.h"
+	"constantes.h"
+
+1677807228 e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.h
+
+1677807228 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\listaordenada.h
+
+1678192013 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\main.c
+	<stdlib.h>
+	"listaordenada.h"
+	"deque.h"
+	"tramite.h"
+	"constantes.h"
+	"simuladorPuestosDeAtencion.h"
+	<string.h>
+
+1677757996 e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.h
+
+1677797652 e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion.h
+	"listaordenada.h"
+	<stdio.h>
+
+1678191667 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion.c
+	<stdlib.h>
+	<stdio.h>
+	"simuladorPuestosDeAtencion.h"
+	"constantes.h"
+	"deque.h"
+	"tramite.h"
+	"listaordenada.h"
+
+1677797652 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion.h
+	"listaordenada.h"
+	<stdio.h>
+
+1677808640 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.c
+	<stdlib.h>
+	<stdio.h>
+	"tramite.h"
+	<string.h>
+	"constantes.h"
+
+1677757996 source:e:\simuladorpuestosdeatencion\simuladorpuestosdeatencion\simuladorpuestosdeatencion\tramite.h
+
